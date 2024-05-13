@@ -56,38 +56,102 @@
     },
     {
       "id": 7,
-      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
-      "name": "Fresh Watermelon",
-      "price": 100,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0006_LemonsA.jpg?v=1711830151&width=320",
+      "name": "Fresh Lemon",
+      "price": 80,
       "description": "Fresh fruits before 7 days.",
       "qty": 1,
       "category": "Fruits"
     },
     {
       "id": 8,
-      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
-      "name": "Fresh Watermelon",
-      "price": 100,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0043_PeachAltA.jpg?v=1712243062&width=320",
+      "name": "Fresh Peach",
+      "price": 120,
       "description": "Fresh fruits before 7 days.",
       "qty": 1,
       "category": "Fruits"
     },
     {
       "id": 9,
-      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
-      "name": "Fresh Watermelon",
-      "price": 100,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0011_PomegraniteA.jpg?v=1711830554&width=320",
+      "name": "Fresh Pomegranate",
+      "price": 200,
       "description": "Fresh fruits before 7 days.",
       "qty": 1,
       "category": "Fruits"
-    }, {
+    },
+    {
       "id": 10,
-      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
-      "name": "Fresh Watermelon",
-      "price": 100,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0005_BananasA.jpg?v=1711830073&width=320",
+      "name": "Fresh Banana",
+      "price": 60,
       "description": "Fresh fruits before 7 days.",
       "qty": 1,
       "category": "Fruits"
+    },
+    {
+      "id": 11,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0000_StrawberriesA.jpg?v=1711830634&width=320",
+      "name": "Fresh Strawberries",
+      "price": 180,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 12,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0001_PeachesA.jpg?v=1712243933&width=320",
+      "name": "Fresh Nectarines",
+      "price": 190,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 13,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0005_BananasA.jpg?v=1711830073&width=320",
+      "name": "Fresh Apple",
+      "price": 250,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 14,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0014_BrocA_ddadc7f2-bdb3-41d5-9224-17ffeea74475.jpg?v=1711821961&width=320",
+      "name": "Fresh Broccoli Crowns",
+      "price": 25,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Vegetables"
+    },
+    {
+      "id": 15,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0015_CornA_b262405f-3aa7-43c5-b10f-7323d03d8b3f.jpg?v=1711822062&width=320",
+      "name": "Fresh Sweet Corn",
+      "price": 45,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Vegetables"
+    },
+    {
+      "id": 16,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0007_PumpkinA_4c20e32a-1251-4c83-a7aa-e7b04ef230fd.jpg?v=1711822167&width=320",
+      "name": "Fresh Pumpkin",
+      "price": 65,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Vegetables"
+    },
+    {
+      "id": 15,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_MILK.jpg?v=1622210304&width=320",
+      "name": "Fresh Milk",
+      "price": 62,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
     }
   ]
 }
