@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0007_PassionFruitA.jpg?v=1711830267&width=320",
+      "name": "Fresh Passion Fruit",
+      "price": 150,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 2,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0000_GrapefruitA.jpg?v=1711831480&width=320",
+      "name": "Fresh Red Grapefruit",
+      "price": 200,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 3,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0002_MelonA.jpg?v=1711829793&width=320",
+      "name": "Cantaloupe",
+      "price": 150,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 4,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0008_OrangesA.jpg?v=1711830798&width=320",
+      "name": "Fresh Navel Orange",
+      "price": 50,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    }
+  ]
+}
