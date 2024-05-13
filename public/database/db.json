@@ -35,6 +35,59 @@
       "description": "Fresh fruits before 7 days.",
       "qty": 1,
       "category": "Fruits"
+    },
+    {
+      "id": 5,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0003_PearsA.jpg?v=1711829908&width=320",
+      "name": "Fresh Bartlett Pears",
+      "price": 150,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 6,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
+      "name": "Fresh Watermelon",
+      "price": 100,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 7,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
+      "name": "Fresh Watermelon",
+      "price": 100,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 8,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
+      "name": "Fresh Watermelon",
+      "price": 100,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    },
+    {
+      "id": 9,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
+      "name": "Fresh Watermelon",
+      "price": 100,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
+    }, {
+      "id": 10,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_WatermelonA.jpg?v=1711830019&width=320",
+      "name": "Fresh Watermelon",
+      "price": 100,
+      "description": "Fresh fruits before 7 days.",
+      "qty": 1,
+      "category": "Fruits"
     }
   ]
 }
