@@ -152,6 +152,78 @@
       "description": "Fresh fruits before 7 days",
       "qty": 1,
       "category": "Dairy"
+    },
+    {
+      "id": 18,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_SWISS.jpg?v=1622210302&width=320",
+      "name": "Swiss Cheese",
+      "price": 32,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 19,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_SOURCREAM.jpg?v=1622210305&width=320",
+      "name": "Soured Cream",
+      "price": 52,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 20,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_BUTTER.jpg?v=1622210293&width=320",
+      "name": "Fresh Butter",
+      "price": 80,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 21,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_COTTAGECHEESE.jpg?v=1622210295&width=320",
+      "name": "Cottage Cheese",
+      "price": 60,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 22,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/products/CCFarmShopProductsCheese_Dairy1200x1200_MOZARELLA.jpg?v=1622210300&width=320",
+      "name": "Mozzarella Cheese",
+      "price": 60,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 23,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0000_SmokedCHeeseA.jpg?v=1711914396&width=320",
+      "name": "Smoked Cheese",
+      "price": 60,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Dairy"
+    },
+    {
+      "id": 24,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0004_GingerA_97d96c26-f3c8-48be-be14-3dd8801b0dc0.jpg?v=1711821991&width=320",
+      "name": "Fresh ginger",
+      "price": 60,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Cooking ingredients"
+    },
+    {
+      "id": 25,
+      "img": "https://canopy-theme-natural.myshopify.com/cdn/shop/files/CANOPYNaturalProductImages_0000_TurmericPowderA.jpg?v=1711833663&width=320",
+      "name": "Turmeric Powder",
+      "price": 60,
+      "description": "Fresh fruits before 7 days",
+      "qty": 1,
+      "category": "Cooking ingredients"
     }
   ]
 }
